@@ -3,7 +3,6 @@ package day06
 import challenges.*
 import stringmatching.regex.Interpolators.r
 import scala.util.boundary, boundary.break
-import java.awt.Point
 import scala.collection.View
 import scala.collection.BitSet
 
